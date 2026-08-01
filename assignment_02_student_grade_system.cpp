@@ -54,7 +54,6 @@ char getGrade(int score)
         return '\0';
     }
 
-    // Determine the grade
     if (score >= 80)
     {
         return 'A';

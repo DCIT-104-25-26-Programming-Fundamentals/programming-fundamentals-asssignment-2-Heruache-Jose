@@ -116,13 +116,11 @@ int main()
 {
     int n, number;
 
-    // Part A
     cout << "How many terms? ";
     cin >> n;
 
     printFibonacci(n);
 
-    // Part B
     cout << "\nEnter a number to check: ";
     cin >> number;
 
